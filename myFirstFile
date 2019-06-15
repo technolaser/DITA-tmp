@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_o4d_trc_c3b">
+    <title>My First XML topic</title>
+    <body>
+        <p>This is my first xml paragraph</p>
+        <p>This is my second paragraph!<note class="- topic/note " type="caution">This is my first
+                warning!!</note></p>
+        <p>The following are items in an unordered list:</p>
+        <ul id="ul_mpj_btc_c3b">
+            <li>UL item 1</li>
+            <li>UL item 2</li>
+        </ul>
+        <p>The following are items in a ordered list:</p>
+        <ol id="ol_av5_ctc_c3b">
+            <li>Go to Home.</li>
+            <li>Press OK.</li>
+        </ol>
+    </body>
+</topic>
